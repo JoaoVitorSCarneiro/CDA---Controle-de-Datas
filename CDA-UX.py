@@ -30,11 +30,11 @@ btn1.config(width=20, height=2)
 btn2 = tkinter.Button(window, text="BOT", fg='blue', command=chamabot)
 btn2.config(width=10, height=2)
 
-btn1.pack(padx=10, pady=5)
-btn2.pack(padx=10, pady=5)
+btn1.place(x=100, y=150)
+btn2.place(x=10, y=150)
 
 window.title('CDA-Controle de Datas')
 window.geometry("300x200+10+20")
-
+window.resizable(width=False, height=False)
 window.mainloop()
 
