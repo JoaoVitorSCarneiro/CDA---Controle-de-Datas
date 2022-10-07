@@ -6,10 +6,10 @@ João Vitor Soares Carneiro
 
 import asyncio
 import tkinter
-import CDATelBot
-import CDA
 from tkinter import *
 
+import CDA
+import CDATelBot
 
 window = Tk()
 
