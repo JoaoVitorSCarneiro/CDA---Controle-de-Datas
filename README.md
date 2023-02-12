@@ -6,4 +6,3 @@ in Data_Validades.xlsx First Collumn goes the product name
 on the Second Collumn goes the expirity date
 
 I gonna work to make a self reminder, so you don't need to push buttons to work
-but for now, i gona take a rest
